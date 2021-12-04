@@ -1,6 +1,8 @@
 # React Sidebar Menu Using React Router Dom
 
-### `git clone https://github.com/AhmedELGAMMUDI/React-Sidebar-Menu-React-Router-Dom.git`
+```
+git clone https://github.com/AhmedELGAMMUDI/React-Sidebar-Menu-React-Router-Dom.git
+```
 
 ### `npm install`
 
